@@ -1,2 +1,21 @@
 <h3>Olá Mundo!</h3>
-<img src="https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaselicani;layout=compact" style="max-width: 100%;">
+<p>Bem-Vindo(a) ao meu GitHub!<br>Aqui você irá encontrar alguns repositórios onde estudo sobre <strong>Html</strong>, <strong>Css</strong> e <strong>JavaScript</strong></p>
+<p>Sinta-se a vontade para dar uma olhada no meu aprendizado!</p>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<div>
+<br>
+  <h4>Meus repositórios favoritos:</h4>
+  ⭐ <a href="https://github.com/flaviaselicani/ConhecendoRochas" target="_blank">Conhecendo Rochas</a><br>
+  ⭐ <a href="https://github.com/flaviaselicani/portfolio" target="_blank">Meu primeiro portifólio</a><br>
+  ⭐ <a href="https://github.com/flaviaselicani/imersao-dev-setembro" target="_blank">Imersão Alura Front-End</a>
+  </div>
+  
+<div><br>
+  <a href="https://www.linkedin.com/in/flaviaselicani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
