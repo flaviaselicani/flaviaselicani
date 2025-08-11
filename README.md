@@ -12,6 +12,7 @@
 <br>
   <h4>Meus repositórios favoritos:</h4>
   ⭐ <a href="https://github.com/flaviaselicani/ConhecendoRochas" target="_blank">Conhecendo Rochas</a><br>
+  ⭐ <a href=" https://github.com/flaviaselicani/cadastroPet" target="_blank">Cadastro Pet</a><br>
   ⭐ <a href="https://github.com/flaviaselicani/portfolio" target="_blank">Meu primeiro portifólio</a><br>
   ⭐ <a href="https://github.com/flaviaselicani/imersao-dev-setembro" target="_blank">Imersão Alura Front-End</a>
   </div>
